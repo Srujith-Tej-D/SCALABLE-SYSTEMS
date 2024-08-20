@@ -1,4 +1,4 @@
-# SCALABE-SYSTEMS
+# SCALABLE-SYSTEMS
 
 GitHub Link :-  https://github.com/Srujith-Tej-D/SCALABLE-SYSTEMS
 Data set Link :- https://www.kaggle.com/c/microsoft-malware-prediction/data
